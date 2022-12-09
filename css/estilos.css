@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Slabo+27px&display=swap');
+
+body {
+background-image: url(../img/fondo.jpg);
+font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+  font-family: 'Fredoka One', cursive;
+text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+.contenedor {
+  width: 700px;
+  margin: 40px auto 50px auto;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.ver a{
+  color: white;
+  background-color: Black;
+  text-decoration: none;
+  padding: 10px;
+}
+
+h2, h3, h4{
+  color: white;
+  width: 700px;
+  margin: 50px auto 50px auto;
+  border-radius: 20px;
+  background-color: Black;
+  text-align: center;
+}
+
+.titulo{
+background-image: url(../img/yn.png);
+  padding: 30px;
+}
+.final{
+  color: white;
+  background-color: Black;
+  padding: 10px;
+  text-align: center;
+}
+.menu{
+  text-align: center;
+  background-color: white;
+}
+.press{
+  display: inline-block;
+  padding: 10px
+}
+
+.press a{
+  color: Black;
+  text-decoration: none;
+  padding: 20px;
+}
+.press a:hover{
+  color: white;
+  background-color: Black;
+  text-decoration: none;
+  padding: 20px;
+}
